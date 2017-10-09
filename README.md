@@ -5,7 +5,7 @@ How to commit:
 
 -------------------
 
-git pull
+git pull	-- um neuste Version von Server zu bekommen
 
 -------------------
 
