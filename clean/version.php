@@ -30,9 +30,7 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version   = 2017051500;
-$plugin->requires  = 2017050500;
-$plugin->component = 'theme_clean';
-$plugin->dependencies = array(
-    'theme_bootstrapbase'  => 2017050500,
-);
+$plugin->version  = 2011061301;  // The current module version (Date: YYYYMMDDXX)
+$plugin->component = 'theme_informatik';
+$plugin->requires = 2010080300;  // Requires this Moodle version
+$plugin->maturity  = MATURITY_STABLE;
